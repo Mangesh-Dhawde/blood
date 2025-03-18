@@ -1,0 +1,34 @@
+<html>
+<h1>Mangesh Dhawde </h1>
+<h2>(CS24019)</h2>
+</html>
+<html>
+<title> practical-2</title>
+<body>
+    <ol>
+        <li>c</li>
+        <li>c++</li>
+        <li>java</li>
+        <hr>
+    </ol>
+    <ul>
+        <li>c</li>
+        <li>c++</li>
+        <li>java</li>
+        <hr>
+    </ul>
+    <dl>
+        <dt>programing language</dt>
+        <dd>c</dd>
+        <dd>c++</dd>
+        <dd>java</dd>
+        <hr>
+        
+
+        <dt>vehical name</dt>
+        <dd> Alto</dd>
+        <dd>nano</dd>
+    </dl>
+
+</body>
+</html>
