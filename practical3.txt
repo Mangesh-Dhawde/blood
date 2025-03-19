@@ -1,0 +1,78 @@
+<html>
+<h5>Mangesh S. Dhawde (CS24019)</h5>
+</html>
+<html>
+<title>Study Time Table (Practical 03)</title>
+<body>
+<h2>Study Timetable</h2>
+<table border="10" cellspacing="10" cellpadding="15">
+
+<tr>
+<th>Time</th>
+<th>8:00-9:00 AM</th>
+<th>9:00-9:30 AM</th>
+<th>10:30 AM-5:30 PM</th>
+<th>6:30-7:30 PM</th>
+<th>7:30-8:30 PM</th>
+<th>8:30-9:30 PM</th>
+<th>9:30-10:30 PM</th>
+</tr>
+
+<tr>
+<td>Mon</td>
+<td colspan="2">Coding</td>
+<td rowspan="6">College Time</td>
+<td colspan="2">Math</td>
+<td>H.W</td>
+<td>Chemistry</td>
+</tr>
+
+<tr>
+<td>Tue</td>
+<td>English</td>
+<td>Coding</td>
+<td>H.W</td>
+<td>Math</td>
+<td>EE</td>
+<td>Chemistry</td>
+</tr>
+
+<tr>
+<td>Wed</td>
+<td colspan="2"> Coding </td>
+<td colspan="2"> Math </td>
+<td>EE</td>
+<td>H.W</td>
+</tr>
+
+<tr>
+<td>Thus</td>
+<td>English</td>
+<td>Coding</td>
+<td>Math</td>
+<td>H.W</td>
+<td>EE</td>
+<td>Chemistry</td>
+</tr>
+
+<tr>
+<td>Fri</td>
+<td>H.W</td>
+<td>Coding</td>
+<td>Math</td>
+<td>Coding</td>
+<td>EE</td>
+<td>Chemistry</td>
+</tr>
+
+<tr>
+<td>Sat</td>
+<td colspan="2"> Coding </td>
+<td>English</td>
+<td>Math</td>
+<td>EE</td>
+<td>Chemistry</td>
+</tr>
+</table>
+</body>
+</html>
